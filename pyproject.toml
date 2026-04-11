@@ -119,7 +119,7 @@ logging = [
 extra = [
     "hub-sdk>=0.0.2", # Ultralytics HUB
     "ipython", # interactive notebook
-    "albumentations>=1.0.3", # training augmentations
+    "albumentations>=2.0.8", # training augmentations
     "pycocotools>=2.0.7", # COCO mAP
 ]
 
